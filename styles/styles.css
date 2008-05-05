@@ -1,65 +1,60 @@
 
 body {
-        width: 700px;
-        margin: 0 auto;
-        font: 62.5%/1em 'Verdana', sans-serif;
+  width: 700px;
+  margin: 0 auto;
+  font: 62.5%/1em 'Verdana', sans-serif;
 }
 
 h1 {
-        height: 100px;
-        width: 271px;
+  height: 100px;
+  width: 271px;
 
-        margin: 0;
-        background-image: url('../images/stl.png');
-
-        float: left;
+  margin: 0 auto;
+  background-image: url('../images/stl.png');
 }
 
 h1 span {
-        display: none;
+  display: none;
 }
 
 h2 {
-        height: 100px;
-        width: 400px;
-        float: right;
-
-        margin: 0;
+  text-align: center;
+  margin-top: 0;
 }
 
 div#header {
-        background: transparent url('../images/grad.png') repeat-y ;
+  background: transparent url('../images/grad.png') repeat-y ;
 }
 
 div#navigation {
-        clear: both;
+  clear: both;
 
-        text-align: center;
-        padding: 6px;
+  text-align: center;
+  padding: 6px;
 
-        background-color: #036;
+  background-color: #036;
 }
 
 div#navigation ul {
-        margin: 0;
-        padding: 0;
+  margin: 0;
+  padding: 0;
 
-        font-size: 1.2em;
+  font-size: 1.2em;
 }
 
 div#navigation li {
-        display: inline;
-        padding: 3px 5px;
-        margin: 0 2px;
+  display: inline;
+  padding: 3px 5px;
+  margin: 0 2px;
 }
 
 div#navigation a {
-        text-decoration: none;
-        color: #fff;
+  text-decoration: none;
+  color: #fff;
 }
 
 div#navigation a:hover {
-        text-decoration: underline;
+  text-decoration: underline;
 }
 
 a#concert {
@@ -74,63 +69,63 @@ a#concert {
 }
 
 div#content {
-        width: 480px;
-        float: left;
-        padding: 0 10px;
+  width: 480px;
+  float: left;
+  padding: 0 10px;
 }
 
 div#content th {
-        text-align: left
+  text-align: left
 }
 
 div#content td {
-        vertical-align: top;
+  vertical-align: top;
 }
 
 div#content h3 {
-        font: 2.0em/1.0em 'Georgia', serif;
+  font: 2.0em/1.0em 'Georgia', serif;
 
-        border-bottom: 1px solid #036;
-        margin: 0;
-        padding: 0.5em;
+  border-bottom: 1px solid #036;
+  margin: 0;
+  padding: 0.5em;
 }
 
 div#content th {
-        font-family: 'Georgia', serif;
-        font-size: 1.1em;
+  font-family: 'Georgia', serif;
+  font-size: 1.1em;
 }
 
 div#content p {
-        font-size: 1.2em;
-        line-height: 1.8em;
+  font-size: 1.2em;
+  line-height: 1.8em;
 }
 
 div#content form {
-        margin: 0;
-        padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 div#content table {
-        font-size: 1.2em;
-        line-height: 1.4em;
+  font-size: 1.2em;
+  line-height: 1.4em;
 }
 
 div#content p img {
-        margin: 5px 15px;
-        padding: 5px;
-        border: 1px solid #333;
-        float: right;
+  margin: 5px 15px;
+  padding: 5px;
+  border: 1px solid #333;
+  float: right;
 }
 
 div#ads {
-        text-align: center;
-        width: 200px;
-        float: right;
-        margin: 0;
+  text-align: center;
+  width: 200px;
+  float: right;
+  margin: 0;
 }
 
 div#ads ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }

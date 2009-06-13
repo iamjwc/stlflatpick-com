@@ -16,17 +16,7 @@
 
 <h1><span>St. Louis Flatpick</span></h1>
 <h2>March 12<sup>th</sup>, 13<sup>th</sup>, and 14<sup>th</sup> 2010</h2>
-<div id="navigation">
-	<ul>
-    <li><a href="guitar_raffle.htm">Guitar Raffle</a></li>
-    <li><a href="register.htm">Register</a></li>
-    <li><a href="instructors.htm">Instructors</a></li>
-    <li><a href="lodging.htm">Lodging</a></li>
-    <li><a href="http://maps.google.com/maps?q=11228+Lone+Eagle+Drive+Bridgeton,+MO+63044&ie=UTF8&om=1&z=15&iwloc=addr">Directions</a></li>
-    <li><a href="schedule.htm">Schedule</a></li>
-    <li><a href="mailto:bullharman@cs.com">Contact Us</a></li>
-	</ul>
-</div>
+<?php include("naviation.php") ?>
 
 <div id="content">
 
@@ -56,16 +46,7 @@
   </ul>
 </div>
 
-<div id="navigation">
-	<ul>
-    <li><a href="register.htm">Register</a></li>
-    <li><a href="instructors.htm">Instructors</a></li>
-    <li><a href="lodging.htm">Lodging</a></li>
-    <li><a href="http://maps.google.com/maps?q=11228+Lone+Eagle+Drive+Bridgeton,+MO+63044&ie=UTF8&om=1&z=15&iwloc=addr">Directions</a></li>
-    <li><a href="schedule.htm">Schedule</a></li>
-    <li><a href="mailto:bullharman@cs.com">Contact Us</a></li>
-	</ul>
-</div>
+<?php include("naviation.php") ?>
 
 </body>
 </html>

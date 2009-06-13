@@ -15,7 +15,7 @@
 <body>
 
 <?php include("header.php") ?>
-<?php include("naviation.php") ?>
+<?php include("navigation.php") ?>
 
 <div id="content">
 
@@ -41,7 +41,7 @@
 </div>
 
 <?php include("ads.php") ?>
-<?php include("naviation.php") ?>
+<?php include("navigation.php") ?>
 
 </body>
 </html>

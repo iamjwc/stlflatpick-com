@@ -15,7 +15,7 @@
 <body>
 
 <?php include("header.php") ?>
-<?php include("naviation.php") ?>
+<?php include("navigation.php") ?>
 
 <div id="content">
 
@@ -82,7 +82,7 @@ Florissant, MO 63032<br />
 </div>
 
 <?php include("ads.php") ?>
-<?php include("naviation.php") ?>
+<?php include("navigation.php") ?>
 
 </body>
 </html>

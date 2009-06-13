@@ -25,10 +25,8 @@
 </a>
 -->
 
-<h3>To Be Announced</h3>
-<p>
-  Stay tuned!
-</p>
+<?php include("bios.php") ?>
+
 </div>
 
 <?php include("ads.php") ?>

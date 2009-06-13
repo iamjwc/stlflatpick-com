@@ -25,9 +25,10 @@
 </a>
 -->
 
+<!--
 <h3>Online Registration Is Closed</h3>
 <p>Please register in person, at the hotel from now on.</p>
-<!--
+-->
 <h3>Register By Mail</h3>
 <p>
   To register by mail send $275 for full weekend, $150 for 1 day or 
@@ -77,7 +78,6 @@ Florissant, MO 63032<br />
     </td>
   </tr>
 </table>
--->
 
 </div>
 

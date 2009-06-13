@@ -15,7 +15,6 @@
   charts since their debut in 2001, winning the prestige Emerging Artist
   award from the IBMA in 2003.   
 </p>
-</div>
 
 <h3><a name="davis">Brad Davis</a></h3>
 <p>

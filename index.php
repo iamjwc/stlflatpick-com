@@ -102,17 +102,30 @@
 </p>
 
 <p>
-A talented guitar instructor and writer, Brad has been a columnist for
-Flatpicking Guitar Magazine since 1996 and is currently Takamine’s main
-guitar clinician, conducting dozens of music store clinics for Takamine
-each year. He has taught at Steve Kaufman’s Flatpick Camp, Nashcamp,
-Camp Bluegrass, the St. Louis Flatpick Weekend, the Roanoke Bluegrass
-Weekend, and more. He has also produced four instructional DVDs for
-Flatpicking Guitar Magazine, "Flatpick Jam", Volumes 1, 2, & 3 and a
-book/DVD/CD course called "Flatpicking the Blues". Additionally, he has
-produced several instructional courses for Mel Bay Publications,
-including the "Blue Book of Speedpicking", and a series of instructional
-Ear Training Cds.
+  A talented guitar instructor and writer, Brad has been a columnist for
+  Flatpicking Guitar Magazine since 1996 and is currently Takamine’s main
+  guitar clinician, conducting dozens of music store clinics for Takamine
+  each year. He has taught at Steve Kaufman’s Flatpick Camp, Nashcamp,
+  Camp Bluegrass, the St. Louis Flatpick Weekend, the Roanoke Bluegrass
+  Weekend, and more. He has also produced four instructional DVDs for
+  Flatpicking Guitar Magazine, "Flatpick Jam", Volumes 1, 2, & 3 and a
+  book/DVD/CD course called "Flatpicking the Blues". Additionally, he has
+  produced several instructional courses for Mel Bay Publications,
+  including the "Blue Book of Speedpicking", and a series of instructional
+  Ear Training Cds.
+</p>
+
+<h3><a name="bull">Bull Harman</a></h3>
+<p>
+  No stranger in the Midwest when you mention guitar playing, Bull has
+  won numerous awards doing just that.  A respected instructor and teacher
+  in his field, Bull also traveled for several years with Rhonda Vincent
+  and in 1999 formed his own band, "Bull's Eye" which he still performs
+  with today.  Bull and his band recently won  2009 National Single Mic
+  Championship at Silver Dollar City.  He holds the title of SPGMBA
+  Midwest Guitar Player of the Year for 2004, 2006 & 2007.  Bull has 2
+  solo projects that have received high recognition titled "Bull's Eye"
+  and "Rosewood, Spruce & Ebony".
 </p>
 </div>
 

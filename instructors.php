@@ -18,15 +18,8 @@
 <?php include("navigation.php") ?>
 
 <div id="content">
-
-<!--
-<a id="concert" href="concert_flyer.pdf" target="new">
-  An Evening of Bluegrass: Bull Harman &amp; Friends Live In Concert
-</a>
--->
-
-<?php include("bios.php") ?>
-
+  <?php include("concertflyer.php") ?>
+  <?php include("bios.php") ?>
 </div>
 
 <?php include("ads.php") ?>

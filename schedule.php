@@ -25,7 +25,7 @@
 	<table id="day1">
 		<thead>
 			<tr>
-				<th colspan="2">Friday, March 12<sup>th</sup></th>
+				<th colspan="2">Friday, March 13<sup>th</sup></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -51,7 +51,7 @@
 	<table id="day2">
 		<thead>
 			<tr>
-				<th colspan="2">Saturday, March 13<sup>th</sup></th>
+				<th colspan="2">Saturday, March 14<sup>th</sup></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -61,7 +61,7 @@
 			</tr>
 			<tr>
 				<td>9:00 to Noon</td>
-				<td>Guitar Workshop with <a href="instructors.htm#smith">Kenny Smith</a></td>
+				<td>Guitar Workshop with <a href="instructors.htm#bennett">Richard Bennett</a></td>
 			</tr>
 			<tr>
 				<td>Noon to 1:00 pm</td>
@@ -73,7 +73,7 @@
 			</tr>
 			<tr>
 				<td>1:00 to 4:00 pm</td>
-				<td>Guitar Workshop continues with <a href="instructors.htm#smith">Kenny Smith</a></td>
+				<td>Guitar Workshop continues with <a href="instructors.htm#bennett">Richard Bennett</a></td>
 			</tr>
 			<tr>
 				<td>4:00 to 7:30 pm</td>
@@ -102,7 +102,7 @@
 		<tbody>
 			<tr>
 				<td>9:00 to Noon</td>
-				<td>Guitar Workshop with <a href="instructors.htm#davis">Brad Davis</a></td>
+				<td>Guitar Workshop with <a href="instructors.htm#stafford">Tim Stafford</a></td>
 			</tr>
 			<tr>
 				<td>Noon to 1:00 pm</td>
@@ -114,7 +114,7 @@
 			</tr>
 			<tr>
 				<td>1:00 to 4:00 pm</td>
-				<td>Guitar Workshop continues with <a href="instructors.htm#davis">Brad Davis</a></td>
+				<td>Guitar Workshop continues with <a href="instructors.htm#stafford">Tim Stafford</a></td>
 			</tr>
 			<tr>
 				<td>4:00 pm</td>

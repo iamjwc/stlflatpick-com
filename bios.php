@@ -1,19 +1,19 @@
 <h3><a name="bennett">Richard Bennett</a></h3>
 <p>
   <img src="images/bennett.jpg" />
-  Originally from Nine Mile, IN, Kenny Smith is widely considered one
-  of the most important and influential flatpicking-style guitarists
-  of his generation. A two-time IBMA Guitarist of the Year award winner,
-  his professional credits include 6 years with the popular Lonesome
-  River Band and an exceptional solo CD, Studebaker, released on Sugar
-  Hill Records in 1997. Kenny's in great demand at guitar workshops and
-  master classes, teaching at the renowned Roanoke Bluegrass Weekend
-  series and at guitar workshops at major events such as IBMA. He has
-  just released a two-DVD instruction set on AcuTab Publications. Kenny
-  and his wife Amanda, have traveled together with their band and have
-  released 5 recordings to date.  They have remained on the bluegrass
-  charts since their debut in 2001, winning the prestige Emerging Artist
-  award from the IBMA in 2003.   
+  Richard Bennett comes to us from the hills of Kentucky.  A strong and
+  versatile guitarist, he performed with his own band, "Richard Bennett Band" late
+  70's thru late 80's era.  He joined as the lead singer and guitar player
+  for "J.D. Crowe and New South" 1990 thru 1995 and is included on several of the
+  recordings during this time.
+   1996 thru 1997 found him with Lou Reid and Carolina.    In 1998, Richard
+  branched out with the trio featuring Jimmy Guadreau and Mike Aldridge where
+  he remained for 4 years.    One of his most prominent jobs would have been
+  filling in for Tony Rice in "The Tony Rice Unit" and "The Bluegrass Album
+  Band" from the mid to late 90's.   Richard does freelancing, workshops and
+  clinics as well as studio engineer work from 2001 to present.   We are thrilled
+  to welcome him to St. Louis as part of our workshop weekend and are assured
+  that you will enjoy his class immensely.
 </p>
 
 <h3><a name="stafford">Tim Stafford</a></h3>

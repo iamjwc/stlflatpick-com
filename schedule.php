@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>St. Louis Flatpick 2010</title>
+  <title>St. Louis Flatpick 2011</title>
 
 	<style type="text/css">
 		<!--
@@ -25,7 +25,7 @@
 	<table id="day1">
 		<thead>
 			<tr>
-				<th colspan="2">Friday, March 13<sup>th</sup></th>
+				<th colspan="2">Friday, March 11<sup>th</sup></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -51,7 +51,7 @@
 	<table id="day2">
 		<thead>
 			<tr>
-				<th colspan="2">Saturday, March 14<sup>th</sup></th>
+				<th colspan="2">Saturday, March 12<sup>th</sup></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -96,7 +96,7 @@
 	<table id="day3">
 		<thead>
 			<tr>
-				<th colspan="2">Sunday, March 14<sup>th</sup></th>
+				<th colspan="2">Sunday, March 13<sup>th</sup></th>
 			</tr>
 		</thead>
 		<tbody>

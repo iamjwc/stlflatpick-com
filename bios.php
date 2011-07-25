@@ -1,75 +1,53 @@
-<h3><a name="bennett">Richard Bennett</a></h3>
+<h3><a name="may">Tim May</a></h3>
 <p>
-  <img src="images/bennett.jpg" />
-  Richard Bennett comes to us from the hills of Kentucky.  A strong and
-  versatile guitarist, he performed with his own band, "Richard Bennett Band" late
-  70's thru late 80's era.  He joined as the lead singer and guitar player
-  for "J.D. Crowe and New South" 1990 thru 1995 and is included on several of the
-  recordings during this time.
-   1996 thru 1997 found him with Lou Reid and Carolina.    In 1998, Richard
-  branched out with the trio featuring Jimmy Guadreau and Mike Aldridge where
-  he remained for 4 years.    One of his most prominent jobs would have been
-  filling in for Tony Rice in "The Tony Rice Unit" and "The Bluegrass Album
-  Band" from the mid to late 90's.   Richard does freelancing, workshops and
-  clinics as well as studio engineer work from 2001 to present.   We are thrilled
-  to welcome him to St. Louis as part of our workshop weekend and are assured
-  that you will enjoy his class immensely.
+  <img src="http://www.timmaymusic.net/images/tmm.jpg" width="300px" />
+  Flatpicker Tim May has been working in the Nashville area for
+  over 20 years as a sideman, session player, band member and performer. Higher profile
+  projects have included touring with <a href="http://www.pattyloveless.com/">Patty
+  Loveless</a> and <a href="http://www.johncowan.com/">John Cowan,</a> and working as a
+  regular on the Grand Ole Opry with <a href="http://www.themikesnider.com/">Mike
+  Snider</a>. Tim was the solo guitarist on <a href=
+  "http://www.charliedaniels.com/">Charlie Daniels&acirc;&euro;&trade;</a> recording of
+  I&acirc;&euro;&trade;ll Fly Away, which was nominated for the Best Country Instrumental
+  Performance Grammy in 2005, the same year he was session leader on the critically
+  acclaimed <a href="http://www.moodybluegrass.com/">Moody Bluegrass</a> album (Moody
+  Bluegrass II is currently in the works as well). <a href=
+  "http://www.elixirstrings.com/">Elixir Strings</a>, <a href=
+  "http://benedetto-guitars.com/">Benedetto Guitars</a> and <a href=
+  "http://www.breedloveguitars.com/">Breedlove Guitars</a> all have presented
+  professional endorsements to Tim, a serious nod to his talents. For fifteen years Tim
+  was a member of Crucial Smith, a powerful bluegrass act that put out two CDs (produced
+  by <a href="http://en.wikipedia.org/wiki/New_Grass_Revival">New Grass
+  Revival&acirc;&euro;&trade;s</a> original flatpicker <a href=
+  "http://www.patflynnmusic.com/">Pat Flynn</a>) before disbanding in 2003. Flynn has a
+  Tim May tune (King of Babylon) on his latest album plus Father Time, a tune Flynn
+  co-wrote with Tim. Today Tim keeps his chops up playing
+  &acirc;&euro;&oelig;AmeriCeltic&acirc;&euro; &acirc;&euro;&ldquo; a delightful mix of
+  Irish, Scottish, Old Time and Bluegrass tunes &acirc;&euro;&ldquo; with his band
+  <a href="http://www.plaidgrass.net/">Plaidgrass</a>. The group released their first CD
+  in January 2008. He's also on the roster of <a href=
+  "http://www.timmaymusic.net/radiola.html">Radiola</a> and performs in a hot-picking
+  ensemble on tour with <a href="http://www.braddavisontour.com/">Brad Davis</a> and
+  <a href="http://www.flatpick.com/">Dan Miller.</a> As good a singer as he is a
+  flatpicker, Tim&acirc;&euro;&trade;s vocals can be heard on his first solo album, Find
+  My Way Back and on <a href="http://www.cmhrecords.com/web/page.asp?pgs=product&amp;catid=2&amp;id=1320">A
+  Bluegrass Tribute to Neil Young</a>, a CD Tim&acirc;&euro;&trade;s produced for
+  <a href="http://www.cmhrecords.com/">CMH Records,</a> released in January 2008. In
+  2008, he combined forces with <a href="http://www.theviolinshop.com/">Fred
+  Carpenter</a> to form <a href="http://www.carpenterandmay.com/">Carpenter &amp; May</a>
+  . In 2010, their debut CD was released on Violin Shop Records, and Carpenter &amp; May
+  charted as the #1 artist with the #1 album at folk radio.
 </p>
 
-<h3><a name="stafford">Tim Stafford</a></h3>
+<h3><a name="grant">Tyler Grant</a></h3>
 <p>
-  <img src="images/stafford.jpg" width="300px" height="260px" />
-  Tim Stafford is a professional guitarist with the band Blue Highway, which
-  he helped found in 1994.  He is also an acclaimed guitar teacher, producer
-  and songwriter.
-</p>
-
-<p>
-  <ul>
-    <li>Grammy winner, 1993, “Every Time You Say Goodbye”</li>
-    <li>Grammy nominee, 2003, “Wondrous Love”; 2005, “Marbletown”</li>
-    <li>Dove Award winner, 2004, “Wondrous Love”</li>
-    <li>Member of Alison Krauss and Union Station (1990-92)</li>
-    <li>SPBGMA Bluegrass Guitar Performer of the Year (2002)</li>
-    <li>IBMA Album of the Year (1996)</li>
-    <li>Entertainer of the Year (1991)</li>
-    <li>Emerging Artists of the Year (1996)</li>
-    <li>Gospel Recorded Performance of the Year (1996)</li>
-    <li>Instrumental Album of the Year (2001)</li>
-    <li>Gospel Recorded Performance of the Year (2004)</li>
-    <li>Recorded Event of the Year (2005)</li>
-    <li>Song of the Year (2008)</li>
-    <li>Nominated for IBMA Guitar Player of the Year in (2005, 2007, 2008)</li>
-    <li>Instrumental Album of the Year (2005)</li>
-    <li>Currently teaches guitar at East Tennessee State University’s famed Bluegrass and Country Music Program</li>
-    <li>Featured as an instructor at Augusta Heritage Camp Bluegrass in Levelland, TX Steve Kaufman's Flatpicking Camp Bluegrass at the Beach Wintergrass CBA Bluegrass Camp Roanoke Bluegrass Weekend, Sore Fingers UK and Nashcamp.</li>
-    <li>Released instructional videotape, “Acoustic Guitar Fundamentals”</li>
-    <li>Produced recordings by several artists, including Kenny Chesney, Chris Jones, Ric-o-chet, The Acutab Sessions, Jack Tottle and the Infamous Stringdusters</li>
-    <li>Co-author, "Still Inside: The Tony Rice Story," acclaimed authorized biography of flatpick legend Tony Rice (2010)</li>
-    <li>“Marbletown” number one on Bluegrass Unlimited National Radio Survey, December 2005-March 2006</li>
-    <li>Tim Stafford signature model guitar released by Composite Acoustics, April 2009</li>
-  </ul>
+<img src="http://tylergrant.com/media/tyler_grant.jpg" width="300px" />
+National Flatpicking Champion Tyler Grant is a versatile guitarist and multi-instrumentalist with a wide range of musical expertise. He is an internationally recognized guitar virtuoso with two solo albums and an impressive resume as a session musician, bandleader and sideman. He has shared the stage with such luminaries as Tony Rice, Sam Bush, Tim O’Brien, Jerry Douglas, Chris Thile, John Oates, Steve Kaufman, Leftover Salmon, Yonder Mountain String Band and The String Cheese Incident. Tyler showcases his powerful and original style of Flatpicking on his latest CD release, Up the Neck. His current band project, The Grant Farm, is taking root and growing fast. 
+Tyler graduated from California Institute of the Arts (CalArts) in 2000 with a Bachelors degree in Guitar Performance. After moving to Nashville from Southern California in 2003 he joined Adrienne Young’s band and toured with her for nearly two years, acting as musical director and playing on her acclaimed CDs Plow the End of the Row and The Art of Virtue. In 2004 he joined Casey and Chris Henry and the Two-Stringers. In the fall of 2004 he toured China with Abigail Washburn and Friends and appeared on her Song of the Traveling Daughter CD. During the first half of 2005 he toured with phenomenal Canadian fiddler April Verch. Tyler revealed his talents as a singer and songwriter with his first solo album, In The Light, released in June 2006 on FGM Records. 
 </p>
 
 <p>
-  This workshop will be open to all levels from beginner to advanced and will
-  cover the following topics:
-</p>
-
-<p>
-  <ul>
-    <li>The “Ts”:  Timing, Tuning, Tone, Technique and Taste—how to improve your command of all five</li>
-    <li>Figuring out a break</li>
-    <li>Thinking melodically</li>
-    <li>Bluegrass Rhythm guitar</li>
-    <li>Lead guitar techniques:  Floating, pulls, slants, hammers, slides, bends, thirds, fifths, harmonics, and more</li>
-    <li>The Nashville number system</li>
-    <li>Chord substitutions</li>
-    <li>Playing in a bluegrass band</li>
-    <li>Improvising</li>
-    <li>Learning a fiddle tune</li>
-    <li>Exercises for building speed</li>
-  </ul>
+Tyler took first place honors at the Rockygrass guitar contest in 2003, the Wayne Henderson festival contest in 2005, the 2008 New England Flatpicking Championship, the 2009 Doc Watson Guitar Championship at Merlefest and became the National Flatpicking Champion for placing first at Winfield in 2008. He has been an instructor at CalArts, Steve Kaufman’s Acoustic Kamp, Rockygrass Academy, Augusta Heritage Center Bluegrass Week and Grand Targhee Music Camp. He has been featured in Acoustic Guitar Magazine, Flatpicking Guitar Magazine and Fingerstyle Guitar Magazine. He lives in Lyons, Colorado, where he writes music, enjoys the outdoors, teaches lessons and records for Grant Central Records. 
 </p>
 
 <h3><a name="bull">Bull Harman</a></h3>

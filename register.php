@@ -27,7 +27,7 @@
 -->
 <h3>Register By Mail</h3>
 <p>
-  To register by mail send $275 for full weekend, $150 for 1 day or 
+  To register by mail send $300 for full weekend, $150 for 1 day or 
   $10 per concert ticket to:
 </p>
 

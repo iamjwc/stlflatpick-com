@@ -7,8 +7,8 @@
   Loveless</a> and <a href="http://www.johncowan.com/">John Cowan,</a> and working as a
   regular on the Grand Ole Opry with <a href="http://www.themikesnider.com/">Mike
   Snider</a>. Tim was the solo guitarist on <a href=
-  "http://www.charliedaniels.com/">Charlie Daniels&acirc;&euro;&trade;</a> recording of
-  I&acirc;&euro;&trade;ll Fly Away, which was nominated for the Best Country Instrumental
+  "http://www.charliedaniels.com/">Charlie Daniels'</a> recording of
+  I'll Fly Away, which was nominated for the Best Country Instrumental
   Performance Grammy in 2005, the same year he was session leader on the critically
   acclaimed <a href="http://www.moodybluegrass.com/">Moody Bluegrass</a> album (Moody
   Bluegrass II is currently in the works as well). <a href=
@@ -18,20 +18,20 @@
   professional endorsements to Tim, a serious nod to his talents. For fifteen years Tim
   was a member of Crucial Smith, a powerful bluegrass act that put out two CDs (produced
   by <a href="http://en.wikipedia.org/wiki/New_Grass_Revival">New Grass
-  Revival&acirc;&euro;&trade;s</a> original flatpicker <a href=
+  Revival's</a> original flatpicker <a href=
   "http://www.patflynnmusic.com/">Pat Flynn</a>) before disbanding in 2003. Flynn has a
   Tim May tune (King of Babylon) on his latest album plus Father Time, a tune Flynn
   co-wrote with Tim. Today Tim keeps his chops up playing
-  &acirc;&euro;&oelig;AmeriCeltic&acirc;&euro; &acirc;&euro;&ldquo; a delightful mix of
-  Irish, Scottish, Old Time and Bluegrass tunes &acirc;&euro;&ldquo; with his band
+  "AmeriCeltic"; a delightful mix of
+  Irish, Scottish, Old Time and Bluegrass tunes; with his band
   <a href="http://www.plaidgrass.net/">Plaidgrass</a>. The group released their first CD
   in January 2008. He's also on the roster of <a href=
   "http://www.timmaymusic.net/radiola.html">Radiola</a> and performs in a hot-picking
   ensemble on tour with <a href="http://www.braddavisontour.com/">Brad Davis</a> and
   <a href="http://www.flatpick.com/">Dan Miller.</a> As good a singer as he is a
-  flatpicker, Tim&acirc;&euro;&trade;s vocals can be heard on his first solo album, Find
+  flatpicker, Tim's vocals can be heard on his first solo album, Find
   My Way Back and on <a href="http://www.cmhrecords.com/web/page.asp?pgs=product&amp;catid=2&amp;id=1320">A
-  Bluegrass Tribute to Neil Young</a>, a CD Tim&acirc;&euro;&trade;s produced for
+  Bluegrass Tribute to Neil Young</a>, a CD Tim's produced for
   <a href="http://www.cmhrecords.com/">CMH Records,</a> released in January 2008. In
   2008, he combined forces with <a href="http://www.theviolinshop.com/">Fred
   Carpenter</a> to form <a href="http://www.carpenterandmay.com/">Carpenter &amp; May</a>
